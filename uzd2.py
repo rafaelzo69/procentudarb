@@ -8,5 +8,5 @@ while True:#sāk ciklu
     
   else:
     print("Piekļuve liegta")#ja patole ir nepareiza, tad piekļuve ir liegta
-
+  break#pārtrauc ciklu
     
